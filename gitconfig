@@ -51,4 +51,4 @@
   rebase = false
 [user]
 	email = anis_samimi@hotmail.com
-	name = anis samimi
+	name = git config --global user.email anis_samimi@hotmail.com
