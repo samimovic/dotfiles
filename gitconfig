@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = anis_samimi@hotmail.com
+	name = anis samimi
